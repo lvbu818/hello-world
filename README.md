@@ -3,4 +3,5 @@ hello world project
 
 * this is way better description about everything and nothing.
 
-hello t2
+* t1 from main
+* hello t2
