@@ -1,2 +1,4 @@
 # hello-world
-hello world proj
+hello world project
+
+* this is way better description about everything and nothing.
